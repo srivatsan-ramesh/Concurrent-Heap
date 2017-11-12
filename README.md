@@ -26,3 +26,6 @@ More than one thread of a warp can not insert or remove elements parallely from 
 
 ## TODO
 Support for custom comparators.
+
+## Reference
+* [An efficient algorithm for concurrent priority queue heaps](http://www.sciencedirect.com/science/article/pii/S0020019096001482)
